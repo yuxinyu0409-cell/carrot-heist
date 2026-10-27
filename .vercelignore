@@ -1,0 +1,5 @@
+.git/
+output/
+tests/
+design/
+preview*.png

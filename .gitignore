@@ -1,0 +1,8 @@
+output/
+public/
+.vercel/
+node_modules/
+.DS_Store
+.env*
+preview*.png
+tests/3d交互作品/
